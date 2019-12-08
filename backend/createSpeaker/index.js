@@ -1,3 +1,5 @@
+// https://acg-eg-dh.australiaeast-1.eventgrid.azure.net/api/events
+
 const mongo = require("mongodb").MongoClient;
 
 module.exports = function(context, req) {
